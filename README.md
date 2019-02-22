@@ -35,4 +35,5 @@ This is a H3 이건 뭐지
 - 2단계
 * 3단계
 
-![Alt text](/path/to/img.jpg)
+![Alt text](\Users\btcsc\Documents\img.jpg)
+
